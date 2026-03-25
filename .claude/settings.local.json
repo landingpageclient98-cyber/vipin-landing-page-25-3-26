@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(magick \"E:/Coding/landing_page/vipin_landing_page_25_3_26/vipin-hero.png\" -quality 88 \"E:/Coding/landing_page/vipin_landing_page_25_3_26/vipin-hero.webp\" 2>&1 && echo \"converted\")",
+      "Bash(cwebp \"E:/Coding/landing_page/vipin_landing_page_25_3_26/vipin-hero.png\" -q 88 -o \"E:/Coding/landing_page/vipin_landing_page_25_3_26/vipin-hero.webp\" 2>&1 && echo \"converted\")"
+    ]
+  }
+}
